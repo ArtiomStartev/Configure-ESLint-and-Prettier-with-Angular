@@ -1,0 +1,8 @@
+build/*
+bin/*
+public/*
+certs/*
+coverage/*
+node_modules/
+.idea/*
+.husky/*
